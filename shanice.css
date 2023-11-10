@@ -56,7 +56,7 @@ html{
     justify-content: center;
     align-items: center;
     color: black;
-    background-image: url("bgpic.jpg");
+    background-image: url("https://raw.githubusercontent.com/shankaulitz/ril-portfolio/main/bgpic.jpg");
     background-repeat: no-repeat;
     height: 800px;
     width: 100%;
